@@ -61,12 +61,6 @@ Sample HR dataset used for analysis.
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is inspired by a YouTube tutorial and was recreated independently for learning purposes. All analysis, dashboard building, and insights were implemented by me.
-
----
-
 ## 🚀 What I Learned
 
 * How to design HR dashboards in Power BI
