@@ -69,7 +69,12 @@ Sample HR dataset used for analysis.
 * Improving storytelling with data
 
 ---
+## 📚 References & Learning
 
+This project was built as part of my hands-on learning in Power BI using publicly available resources.
+I have independently implemented, customized, and extended the dashboard to strengthen my understanding of HR analytics and data visualization.
+
+---
 ## 📬 Let's Connect
 
 If you're a recruiter or hiring manager, feel free to connect with me!
